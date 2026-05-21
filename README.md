@@ -1,1 +1,1 @@
-this is my cclass
+this is my class
